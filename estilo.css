@@ -1,11 +1,35 @@
 body{
     background: #333300;
 }
+#conteudo-principal{
+	width: 1920px;
+    height: auto;
+    float: left;
+    padding: 1px;
+	margin: 1px;
 
+}
+.titulo{
+	background: green;
+	width: 1920px;
+	
+}
+#imagemprincipal{
+	width: 1920px;
+    
+
+}
 #conteudo-esquerda{
     width: 424px;	
 	height: auto;
 	float: left;
+	
+}
+#conteudo-centro{
+    width: 424px;
+	height: auto;
+	float: left;
+
 }
 
 .banner{
